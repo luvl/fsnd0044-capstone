@@ -53,7 +53,7 @@ Postman API are exported for API testing, import the API collection file "FSND00
 
 
 ### Deployment
-Refer to following production endpoint which is deployed with Heroku: T.B.D
+Refer to following production endpoint which is deployed with Heroku: https://mycastingagency2023.herokuapp.com/
 
 
 # API Endpoint
