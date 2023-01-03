@@ -409,4 +409,5 @@ app = create_app()
 
 # FLASK-SETUP This code should be at the bottom of all your files.
 if __name__ == '__main__':
-    app.run(port=3000, debug=DEBUG)
+    # app.run(port=3000, debug=DEBUG)
+    app.run()
