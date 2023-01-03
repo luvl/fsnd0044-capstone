@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Databse
-export DATABASE_URL="postgresql://postgres:abc@localhost:5432/postgres"
+export DATABASE_URL="postgres://hmytkhoemeyzbg:07cb106682d12d59203516deb3253386e63586b7b6d7f21afbf6c4dff38d13fa@ec2-52-3-60-53.compute-1.amazonaws.com:5432/d5u9v3t5r3f2kj"
 
 # AUTH0 domain
 export AUTH0_DOMAIN="dev-6rl2das1i31tydyi.us.auth0.com"
